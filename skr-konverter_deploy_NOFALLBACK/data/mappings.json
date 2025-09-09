@@ -1,0 +1,1048 @@
+{
+  "meta": {
+    "source": "Kontenplan PDF 457-460",
+    "version": "pro-features"
+  },
+  "mappings": [
+    {
+      "skr03": "0035",
+      "skr04": "0150",
+      "label": {
+        "de": "Geschäfts- oder Firmenwert",
+        "en": "Geschäfts- oder Firmenwert",
+        "ru": "Geschäfts- oder Firmenwert"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0038",
+      "skr04": "0179",
+      "label": {
+        "de": "Anzahlungen auf Geschäfts- oder Firmenwert",
+        "en": "Anzahlungen auf Geschäfts- oder Firmenwert",
+        "ru": "Anzahlungen auf Geschäfts- oder Firmenwert"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0090",
+      "skr04": "0240",
+      "label": {
+        "de": "Geschäftsbauten",
+        "en": "Geschäftsbauten",
+        "ru": "Geschäftsbauten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0210",
+      "skr04": "0440",
+      "label": {
+        "de": "Maschinen",
+        "en": "Maschinen",
+        "ru": "Maschinen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0320",
+      "skr04": "0520",
+      "label": {
+        "de": "PKW",
+        "en": "PKW",
+        "ru": "PKW"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0350",
+      "skr04": "0540",
+      "label": {
+        "de": "LKW",
+        "en": "LKW",
+        "ru": "LKW"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0440",
+      "skr04": "0620",
+      "label": {
+        "de": "Werkzeuge",
+        "en": "Werkzeuge",
+        "ru": "Werkzeuge"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0480",
+      "skr04": "0670",
+      "label": {
+        "de": "Geringwertige Wirtschaftsgüter",
+        "en": "Geringwertige Wirtschaftsgüter",
+        "ru": "Geringwertige Wirtschaftsgüter"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0485",
+      "skr04": "0675",
+      "label": {
+        "de": "Geringwertige Wirtschaftsgüter Sammelposten",
+        "en": "Geringwertige Wirtschaftsgüter Sammelposten",
+        "ru": "Geringwertige Wirtschaftsgüter Sammelposten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0490",
+      "skr04": "0690",
+      "label": {
+        "de": "Sonstige Betriebs- und Geschäftsausstattung",
+        "en": "Sonstige Betriebs- und Geschäftsausstattung",
+        "ru": "Sonstige Betriebs- und Geschäftsausstattung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0640",
+      "skr04": "3160",
+      "label": {
+        "de": "Verbindlichkeiten gegenüber Kreditinstituten 1-5 Jahre",
+        "en": "Verbindlichkeiten gegenüber Kreditinstituten 1-5 Jahre",
+        "ru": "Verbindlichkeiten gegenüber Kreditinstituten 1-5 Jahre"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0860",
+      "skr04": "2970",
+      "label": {
+        "de": "Gewinnvortrag vor Verwendung",
+        "en": "Gewinnvortrag vor Verwendung",
+        "ru": "Gewinnvortrag vor Verwendung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0868",
+      "skr04": "2978",
+      "label": {
+        "de": "Verlustvortrag vor Verwendung",
+        "en": "Verlustvortrag vor Verwendung",
+        "ru": "Verlustvortrag vor Verwendung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0880",
+      "skr04": "2010",
+      "label": {
+        "de": "Variables Kapitel",
+        "en": "Variables Kapitel",
+        "ru": "Variables Kapitel"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0955",
+      "skr04": "3020",
+      "label": {
+        "de": "Steuerrückstellungen",
+        "en": "Steuerrückstellungen",
+        "ru": "Steuerrückstellungen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0980",
+      "skr04": "1900",
+      "label": {
+        "de": "Aktive Rechnungsabgrenzung",
+        "en": "Aktive Rechnungsabgrenzung",
+        "ru": "Aktive Rechnungsabgrenzung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "0990",
+      "skr04": "3900",
+      "label": {
+        "de": "Passive Rechnungsabgrenzung",
+        "en": "Passive Rechnungsabgrenzung",
+        "ru": "Passive Rechnungsabgrenzung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1000",
+      "skr04": "1600",
+      "label": {
+        "de": "Kasse",
+        "en": "Kasse",
+        "ru": "Kasse"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1100",
+      "skr04": "1700",
+      "label": {
+        "de": "Postbank",
+        "en": "Postbank",
+        "ru": "Postbank"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1200",
+      "skr04": "1800",
+      "label": {
+        "de": "Raiffeisenbank Rheinbach",
+        "en": "Raiffeisenbank Rheinbach",
+        "ru": "Raiffeisenbank Rheinbach"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1210",
+      "skr04": "1810",
+      "label": {
+        "de": "Deutsche Bank Bonn",
+        "en": "Deutsche Bank Bonn",
+        "ru": "Deutsche Bank Bonn"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1330",
+      "skr04": "1550",
+      "label": {
+        "de": "Schecks",
+        "en": "Schecks",
+        "ru": "Schecks"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1360",
+      "skr04": "1460",
+      "label": {
+        "de": "Geldtransit",
+        "en": "Geldtransit",
+        "ru": "Geldtransit"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1361",
+      "skr04": "1461",
+      "label": {
+        "de": "Geldtransit Sparkasse",
+        "en": "Geldtransit Sparkasse",
+        "ru": "Geldtransit Sparkasse"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1400",
+      "skr04": "1200",
+      "label": {
+        "de": "Forderungen aus Lieferungen und Leistungen",
+        "en": "Forderungen aus Lieferungen und Leistungen",
+        "ru": "Forderungen aus Lieferungen und Leistungen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1500",
+      "skr04": "1300",
+      "label": {
+        "de": "Sonstige Vermögensgegenstände",
+        "en": "Sonstige Vermögensgegenstände",
+        "ru": "Sonstige Vermögensgegenstände"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1545",
+      "skr04": "1422",
+      "label": {
+        "de": "Umsatzsteuerforderungen Vorjahr",
+        "en": "Umsatzsteuerforderungen Vorjahr",
+        "ru": "Umsatzsteuerforderungen Vorjahr"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1571",
+      "skr04": "1401",
+      "label": {
+        "de": "Abziehbare Vorsteuer 7 %",
+        "en": "Abziehbare Vorsteuer 7 %",
+        "ru": "Abziehbare Vorsteuer 7 %"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1574",
+      "skr04": "1404",
+      "label": {
+        "de": "Abziehbare Vorsteuer aus EG-Erwerb 19 %",
+        "en": "Abziehbare Vorsteuer aus EG-Erwerb 19 %",
+        "ru": "Abziehbare Vorsteuer aus EG-Erwerb 19 %"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1576",
+      "skr04": "1406",
+      "label": {
+        "de": "Abziehbare Vorsteuer 19 %",
+        "en": "Abziehbare Vorsteuer 19 %",
+        "ru": "Abziehbare Vorsteuer 19 %"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1590",
+      "skr04": "1370",
+      "label": {
+        "de": "Durchlaufende Posten",
+        "en": "Durchlaufende Posten",
+        "ru": "Durchlaufende Posten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1600",
+      "skr04": "3300",
+      "label": {
+        "de": "Verbindlichkeiten aus Lieferungen und Leistungen",
+        "en": "Verbindlichkeiten aus Lieferungen und Leistungen",
+        "ru": "Verbindlichkeiten aus Lieferungen und Leistungen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1700",
+      "skr04": "3500",
+      "label": {
+        "de": "Sonstige Verbindlichkeiten",
+        "en": "Sonstige Verbindlichkeiten",
+        "ru": "Sonstige Verbindlichkeiten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1736",
+      "skr04": "3700",
+      "label": {
+        "de": "Verbindlichkeiten Steuern und Abgaben",
+        "en": "Verbindlichkeiten Steuern und Abgaben",
+        "ru": "Verbindlichkeiten Steuern und Abgaben"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1740",
+      "skr04": "3720",
+      "label": {
+        "de": "Verbindlichkeiten aus Lohn und Gehalt",
+        "en": "Verbindlichkeiten aus Lohn und Gehalt",
+        "ru": "Verbindlichkeiten aus Lohn und Gehalt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1741",
+      "skr04": "3730",
+      "label": {
+        "de": "Verbindlichkeiten aus Lohn und Kirchensteuer",
+        "en": "Verbindlichkeiten aus Lohn und Kirchensteuer",
+        "ru": "Verbindlichkeiten aus Lohn und Kirchensteuer"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1742",
+      "skr04": "3740",
+      "label": {
+        "de": "Verbindlichkeiten soziale Sicherheit",
+        "en": "Verbindlichkeiten soziale Sicherheit",
+        "ru": "Verbindlichkeiten soziale Sicherheit"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1750",
+      "skr04": "3770",
+      "label": {
+        "de": "Verbindlichkeiten aus Vermögensbildung",
+        "en": "Verbindlichkeiten aus Vermögensbildung",
+        "ru": "Verbindlichkeiten aus Vermögensbildung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1755",
+      "skr04": "3790",
+      "label": {
+        "de": "Verrechnungskonto Lohn und Gehalt",
+        "en": "Verrechnungskonto Lohn und Gehalt",
+        "ru": "Verrechnungskonto Lohn und Gehalt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1759",
+      "skr04": "3759",
+      "label": {
+        "de": "Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern",
+        "en": "Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern",
+        "ru": "Voraussichtliche Beitragsschuld gegenüber den Sozialversicherungsträgern"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1771",
+      "skr04": "3801",
+      "label": {
+        "de": "Umsatzsteuer 7 %",
+        "en": "Umsatzsteuer 7 %",
+        "ru": "Umsatzsteuer 7 %"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1776",
+      "skr04": "3806",
+      "label": {
+        "de": "Umsatzsteuer 19 %",
+        "en": "Umsatzsteuer 19 %",
+        "ru": "Umsatzsteuer 19 %"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1780",
+      "skr04": "3820",
+      "label": {
+        "de": "Umsatzsteuervorauszahlungen",
+        "en": "Umsatzsteuervorauszahlungen",
+        "ru": "Umsatzsteuervorauszahlungen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1789",
+      "skr04": "3840",
+      "label": {
+        "de": "USt laufendes Jahr",
+        "en": "USt laufendes Jahr",
+        "ru": "USt laufendes Jahr"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1790",
+      "skr04": "3841",
+      "label": {
+        "de": "USt Vorjahr",
+        "en": "USt Vorjahr",
+        "ru": "USt Vorjahr"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "1800",
+      "skr04": "2100",
+      "label": {
+        "de": "Privatentnahmen allgemein",
+        "en": "Privatentnahmen allgemein",
+        "ru": "Privatentnahmen allgemein"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "2310",
+      "skr04": "6895",
+      "label": {
+        "de": "Abgänge Sachanlagen (Restbuchwert bei Buchverlust)",
+        "en": "Abgänge Sachanlagen (Restbuchwert bei Buchverlust)",
+        "ru": "Abgänge Sachanlagen (Restbuchwert bei Buchverlust)"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "2315",
+      "skr04": "4855",
+      "label": {
+        "de": "Abgänge Sachanlagen (Restbuchwert bei Buchgewinn)",
+        "en": "Abgänge Sachanlagen (Restbuchwert bei Buchgewinn)",
+        "ru": "Abgänge Sachanlagen (Restbuchwert bei Buchgewinn)"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "2406",
+      "skr04": "6936",
+      "label": {
+        "de": "Forderungsverluste 19 % USt",
+        "en": "Forderungsverluste 19 % USt",
+        "ru": "Forderungsverluste 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "2650",
+      "skr04": "7100",
+      "label": {
+        "de": "Sonstige Zinsen u. ähnliche Erträge",
+        "en": "Sonstige Zinsen u. ähnliche Erträge",
+        "ru": "Sonstige Zinsen u. ähnliche Erträge"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3030",
+      "skr04": "5130",
+      "label": {
+        "de": "Wareneinkauf Rohstoff Perisol 19 % VSt",
+        "en": "Wareneinkauf Rohstoff Perisol 19 % VSt",
+        "ru": "Wareneinkauf Rohstoff Perisol 19 % VSt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3032",
+      "skr04": "5132",
+      "label": {
+        "de": "Wareneinkauf Hilfsstoffe 19 % VSt",
+        "en": "Wareneinkauf Hilfsstoffe 19 % VSt",
+        "ru": "Wareneinkauf Hilfsstoffe 19 % VSt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3033",
+      "skr04": "5133",
+      "label": {
+        "de": "Wareneinkauf Betriebsstoffe 19 % VSt",
+        "en": "Wareneinkauf Betriebsstoffe 19 % VSt",
+        "ru": "Wareneinkauf Betriebsstoffe 19 % VSt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3200",
+      "skr04": "5200",
+      "label": {
+        "de": "Wareneingang",
+        "en": "Wareneingang",
+        "ru": "Wareneingang"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3738",
+      "skr04": "5738",
+      "label": {
+        "de": "Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe",
+        "en": "Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe",
+        "ru": "Erhaltene Skonti aus Einkauf Roh-, Hilfs- und Betriebsstoffe"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3750",
+      "skr04": "5750",
+      "label": {
+        "de": "Erhaltene Boni 7 % Vorsteuer",
+        "en": "Erhaltene Boni 7 % Vorsteuer",
+        "ru": "Erhaltene Boni 7 % Vorsteuer"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3755",
+      "skr04": "5755",
+      "label": {
+        "de": "Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe",
+        "en": "Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe",
+        "ru": "Erhaltene Boni aus Einkauf Roh-, Hilfs- und Betriebsstoffe"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3760",
+      "skr04": "5760",
+      "label": {
+        "de": "Erhaltene Boni 19 % Vorsteuer",
+        "en": "Erhaltene Boni 19 % Vorsteuer",
+        "ru": "Erhaltene Boni 19 % Vorsteuer"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3764",
+      "skr04": "5764",
+      "label": {
+        "de": "Erhaltene Boni 16 % Vorsteuer",
+        "en": "Erhaltene Boni 16 % Vorsteuer",
+        "ru": "Erhaltene Boni 16 % Vorsteuer"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3800",
+      "skr04": "5800",
+      "label": {
+        "de": "Bezugsnebenkosten",
+        "en": "Bezugsnebenkosten",
+        "ru": "Bezugsnebenkosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "3970",
+      "skr04": "1000",
+      "label": {
+        "de": "Roh-, Hilfs- und Betriebsstoffe",
+        "en": "Roh-, Hilfs- und Betriebsstoffe",
+        "ru": "Roh-, Hilfs- und Betriebsstoffe"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4110",
+      "skr04": "6010",
+      "label": {
+        "de": "Löhne",
+        "en": "Löhne",
+        "ru": "Löhne"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4120",
+      "skr04": "6020",
+      "label": {
+        "de": "Gehälter",
+        "en": "Gehälter",
+        "ru": "Gehälter"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4130",
+      "skr04": "6110",
+      "label": {
+        "de": "Gesetzliche soziale Aufwendungen",
+        "en": "Gesetzliche soziale Aufwendungen",
+        "ru": "Gesetzliche soziale Aufwendungen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4138",
+      "skr04": "6120",
+      "label": {
+        "de": "Beiträge zur Berufsgenossenschaft",
+        "en": "Beiträge zur Berufsgenossenschaft",
+        "ru": "Beiträge zur Berufsgenossenschaft"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4170",
+      "skr04": "6080",
+      "label": {
+        "de": "Vermögenswirksame Leistungen (AG-Anteil zur Vermögensbildung)",
+        "en": "Vermögenswirksame Leistungen (AG-Anteil zur Vermögensbildung)",
+        "ru": "Vermögenswirksame Leistungen (AG-Anteil zur Vermögensbildung)"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4210",
+      "skr04": "6310",
+      "label": {
+        "de": "Miete",
+        "en": "Miete",
+        "ru": "Miete"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4340",
+      "skr04": "7650",
+      "label": {
+        "de": "Sonstige Steuern",
+        "en": "Sonstige Steuern",
+        "ru": "Sonstige Steuern"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4500",
+      "skr04": "6500",
+      "label": {
+        "de": "Fahrzeugkosten",
+        "en": "Fahrzeugkosten",
+        "ru": "Fahrzeugkosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4510",
+      "skr04": "7685",
+      "label": {
+        "de": "Kfz-Steuer",
+        "en": "Kfz-Steuer",
+        "ru": "Kfz-Steuer"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4530",
+      "skr04": "6530",
+      "label": {
+        "de": "Laufende Kfz-Betriebskosten",
+        "en": "Laufende Kfz-Betriebskosten",
+        "ru": "Laufende Kfz-Betriebskosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4550",
+      "skr04": "6550",
+      "label": {
+        "de": "Garagenmiete",
+        "en": "Garagenmiete",
+        "ru": "Garagenmiete"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4600",
+      "skr04": "6600",
+      "label": {
+        "de": "Werbekosten",
+        "en": "Werbekosten",
+        "ru": "Werbekosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4630",
+      "skr04": "6610",
+      "label": {
+        "de": "Geschenke abzugsfähig ohne § 37b EStG",
+        "en": "Geschenke abzugsfähig ohne § 37b EStG",
+        "ru": "Geschenke abzugsfähig ohne § 37b EStG"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4730",
+      "skr04": "6740",
+      "label": {
+        "de": "Ausgangsfrachten",
+        "en": "Ausgangsfrachten",
+        "ru": "Ausgangsfrachten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4805",
+      "skr04": "6470",
+      "label": {
+        "de": "Reparaturen, Instandhaltung andere Anlagen, Betriebs- und Geschäftsausstattung",
+        "en": "Reparaturen, Instandhaltung andere Anlagen, Betriebs- und Geschäftsausstattung",
+        "ru": "Reparaturen, Instandhaltung andere Anlagen, Betriebs- und Geschäftsausstattung"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4830",
+      "skr04": "6220",
+      "label": {
+        "de": "Abschreibungen auf Sachanlagen",
+        "en": "Abschreibungen auf Sachanlagen",
+        "ru": "Abschreibungen auf Sachanlagen"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4831",
+      "skr04": "6221",
+      "label": {
+        "de": "Abschreibungen auf Gebäude",
+        "en": "Abschreibungen auf Gebäude",
+        "ru": "Abschreibungen auf Gebäude"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4832",
+      "skr04": "6222",
+      "label": {
+        "de": "Abschreibungen auf Kfz",
+        "en": "Abschreibungen auf Kfz",
+        "ru": "Abschreibungen auf Kfz"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4855",
+      "skr04": "6260",
+      "label": {
+        "de": "Sofortabschreibung GWG",
+        "en": "Sofortabschreibung GWG",
+        "ru": "Sofortabschreibung GWG"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4862",
+      "skr04": "6264",
+      "label": {
+        "de": "Abschreibung Sammelposten GWG",
+        "en": "Abschreibung Sammelposten GWG",
+        "ru": "Abschreibung Sammelposten GWG"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4910",
+      "skr04": "6800",
+      "label": {
+        "de": "Porto",
+        "en": "Porto",
+        "ru": "Porto"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4920",
+      "skr04": "6805",
+      "label": {
+        "de": "Telefon",
+        "en": "Telefon",
+        "ru": "Telefon"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4925",
+      "skr04": "6810",
+      "label": {
+        "de": "Telefax und Internetkosten",
+        "en": "Telefax und Internetkosten",
+        "ru": "Telefax und Internetkosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4930",
+      "skr04": "6515",
+      "label": {
+        "de": "Bürobedarf",
+        "en": "Bürobedarf",
+        "ru": "Bürobedarf"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4955",
+      "skr04": "6830",
+      "label": {
+        "de": "Buchführungskosten",
+        "en": "Buchführungskosten",
+        "ru": "Buchführungskosten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "4970",
+      "skr04": "6855",
+      "label": {
+        "de": "Nebenkosten des Geldverkehrs",
+        "en": "Nebenkosten des Geldverkehrs",
+        "ru": "Nebenkosten des Geldverkehrs"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "7050",
+      "skr04": "1050",
+      "label": {
+        "de": "Unfertige Erzeugnisse",
+        "en": "Unfertige Erzeugnisse",
+        "ru": "Unfertige Erzeugnisse"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "7110",
+      "skr04": "1110",
+      "label": {
+        "de": "Fertige Erzeugnisse",
+        "en": "Fertige Erzeugnisse",
+        "ru": "Fertige Erzeugnisse"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8000",
+      "skr04": "4000",
+      "label": {
+        "de": "Umsatzerlöse",
+        "en": "Umsatzerlöse",
+        "ru": "Umsatzerlöse"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8125",
+      "skr04": "4125",
+      "label": {
+        "de": "Steuerfreie EG-Lieferungen § 4 Nr.1 b UStG",
+        "en": "Steuerfreie EG-Lieferungen § 4 Nr.1 b UStG",
+        "ru": "Steuerfreie EG-Lieferungen § 4 Nr.1 b UStG"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8400",
+      "skr04": "4400",
+      "label": {
+        "de": "Erlöse Deckenplatten Style 19 % USt",
+        "en": "Erlöse Deckenplatten Style 19 % USt",
+        "ru": "Erlöse Deckenplatten Style 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8401",
+      "skr04": "4401",
+      "label": {
+        "de": "Erlöse Deckenplatten Comfort 19 % USt",
+        "en": "Erlöse Deckenplatten Comfort 19 % USt",
+        "ru": "Erlöse Deckenplatten Comfort 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8402",
+      "skr04": "4402",
+      "label": {
+        "de": "Erlöse Deckenplatten EURO 19 % USt",
+        "en": "Erlöse Deckenplatten EURO 19 % USt",
+        "ru": "Erlöse Deckenplatten EURO 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8403",
+      "skr04": "4403",
+      "label": {
+        "de": "Erlöse Deckenplatten Luxus 19 % USt",
+        "en": "Erlöse Deckenplatten Luxus 19 % USt",
+        "ru": "Erlöse Deckenplatten Luxus 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8736",
+      "skr04": "4736",
+      "label": {
+        "de": "Gewährte Skonti 19 % USt",
+        "en": "Gewährte Skonti 19 % USt",
+        "ru": "Gewährte Skonti 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8750",
+      "skr04": "4750",
+      "label": {
+        "de": "Gewährte Boni 7 % USt",
+        "en": "Gewährte Boni 7 % USt",
+        "ru": "Gewährte Boni 7 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8760",
+      "skr04": "4760",
+      "label": {
+        "de": "Gewährte Boni 19 % USt",
+        "en": "Gewährte Boni 19 % USt",
+        "ru": "Gewährte Boni 19 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8764",
+      "skr04": "4762",
+      "label": {
+        "de": "Gewährte Boni 16 % USt",
+        "en": "Gewährte Boni 16 % USt",
+        "ru": "Gewährte Boni 16 % USt"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "8820",
+      "skr04": "4845",
+      "label": {
+        "de": "Erlöse Sachanlagenverkäufe 19 % USt (bei Buchgewinn)",
+        "en": "Erlöse Sachanlagenverkäufe 19 % USt (bei Buchgewinn)",
+        "ru": "Erlöse Sachanlagenverkäufe 19 % USt (bei Buchgewinn)"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "9000",
+      "skr04": "9000",
+      "label": {
+        "de": "Saldenvorträge Sachkonten",
+        "en": "Saldenvorträge Sachkonten",
+        "ru": "Saldenvorträge Sachkonten"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "9008",
+      "skr04": "9008",
+      "label": {
+        "de": "Saldenvorträge Debitoren",
+        "en": "Saldenvorträge Debitoren",
+        "ru": "Saldenvorträge Debitoren"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "9009",
+      "skr04": "9009",
+      "label": {
+        "de": "Saldenvorträge Kreditoren",
+        "en": "Saldenvorträge Kreditoren",
+        "ru": "Saldenvorträge Kreditoren"
+      },
+      "synonyms": []
+    },
+    {
+      "skr03": "9090",
+      "skr04": "9090",
+      "label": {
+        "de": "Summenvortragskonto",
+        "en": "Summenvortragskonto",
+        "ru": "Summenvortragskonto"
+      },
+      "synonyms": []
+    }
+  ]
+}
